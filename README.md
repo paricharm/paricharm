@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paricharmr</h1>
+<h1 align="center">Hi 👋, I'm Paricharm</h1>
 <h6 align="center">owner of upcoming codecrunch</h6>
 <h3 align="center">A passionate fullstack developer from India</h3>
 

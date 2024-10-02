@@ -25,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paricharm&" alt="paricharm" /></p>
 [![An image of @moumita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moumita)](https://holopin.io/@moumita)
-<h1 align="center">Show some💘by starring some of the repositories!</h1>

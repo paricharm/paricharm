@@ -24,4 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paricharm&show_icons=true&locale=en" alt="paricharm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paricharm&" alt="paricharm" /></p>
-[![An image of @moumita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moumita)](https://holopin.io/@moumita)
+
+ [![An image of @moumita's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moumita)](https://holopin.io/@moumita)
+
+

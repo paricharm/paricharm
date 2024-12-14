@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paricharm</h1>
-<h6 align="center">owner of upcoming codecrunch</h6>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paricharm&label=Profile%20views&color=0e75b6&style=flat" alt="paricharm" /> </p>
